@@ -18,7 +18,7 @@ From this list, QA-1, QA-2, QA-3, and QA-4 were selected as drivers
 
 Step 3: Choose one or more elements to refine the system
 
-![images](decomp2.jpg)
+![](images/decomp2.jpg)
 
 Step 4:
 
