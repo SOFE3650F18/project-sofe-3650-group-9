@@ -18,7 +18,7 @@ From this list, QA-1, QA-2, QA-3, and QA-4 were selected as drivers
 
 Step 3: Choose one or more elements to refine the system
 
-![https://lh6.googleusercontent.com/dldJl-xbQwAYgL2HmW6157e3Cu3vP6T0zNT5nrrVpYkZGNeEDEs6HxKejyr0Okej84-IBn9CSThb6F6713yE0uxLjNMOEsMHeMtFpBpW1zV2c8IvYADTi33ZIt5v9agJnvNpieR7](media/b187e68385b46779d77e3ee88bede5bf.jpg)
+![images](decomp2.jpg)
 
 Step 4:
 
