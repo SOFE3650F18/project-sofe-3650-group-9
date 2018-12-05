@@ -17,4 +17,4 @@ CMS primary use cases:
 
 ## Step 6: Sketch Views and Record Design Decisions.
 Domain model of the CMS system:
-![](/images/Domain Model Update1.jpg)
+![](project-sofe-3650-group-9/Iteration 2/images/Domain Model Update1.jpg)
