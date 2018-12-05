@@ -98,13 +98,13 @@ Previous elements worked on in Iteration 1 will be worked on and refined in Iter
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During the Iteration |
 | --- | --- | --- | ---- |
 |  | UC-1, UC-3, UC-6, UC-7, UC-8, UC-9 |  | Associative use cases have been touched on but not primary focus in this iteration. |
-|  |  | UC-2 | Models and diagrams to support this use case have been created. |
-|  |  | UC-4 | Models and diagrams to support this use case have been created. |
-|  |  | UC-5 | Models and diagrams to support this use case have been created. |
+|  |  | UC-2 | Models and diagrams to support this use case have been created in this iteration. Course info is stored in the database and is being updated with the most relevant info. |
+|  |  | UC-4 | Models and diagrams to support this use case have been created in this iteration. Networking or validation issues that arise in the CMS will be prevented if not at least found as well as logged into the database. |
+|  |  | UC-5 | Models and diagrams to support this use case have been created in this iteration. A database system that stores course and enrolment info as well as a log of any changes or faults in the CMS. |
 | QA-1, QA-4, QA-6 |  |  | Not addressed in this iteration. |
-|  | QA-2 |  | Relates to associated use case (UC-5) which has been described in this iteration. |
-|  | QA-3 |  | Relates to associated use case (UC-4) which has been described in this iteration. |
-|  | QA-5 |  | Relates to associated use case (UC-1, UC-5) which has been described in this iteration. |
+|  | QA-2 |  | Relates to associated use case (UC-5) which has been described in this iteration. Adding or improving components should not be an issue with the core architecture. |
+|  | QA-3 |  | Relates to associated use case (UC-4) which has been described in this iteration. Any faults in the CMS will be found and will be up and running in a short amount of time. |
+|  | QA-5 |  | Relates to associated use case (UC-1, UC-5) which has been described in this iteration. User validation is used to determine user type and then provide options available only to certain users in the CMS. |
 | CON-2, CON-4, CON-6 |  |  | Not addressed in this iteration. |
 |  | CON-1 |  | Identified and modules relating to the issue have been investigated. |
 |  | CON-3 |  | Identified and modules relating to the issue have been investigated. |
