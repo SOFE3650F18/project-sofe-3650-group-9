@@ -17,3 +17,4 @@ CMS primary use cases:
 
 ## Step 6: Sketch Views and Record Design Decisions.
 Domain model of the CMS system:
+![](/images/Domain Model Update1.jpg)
