@@ -18,3 +18,34 @@ CMS primary use cases:
 ## Step 6: Sketch Views and Record Design Decisions.
 Domain model of the CMS system:
 ![](images/DomainModelUpdate1.jpg)
+
+
+Domain objects for the components in the CMS system:
+![](images/DomainObjects.jpg)
+
+| Element | Responsibility |
+| --- | --- |
+| Database Management | Contains information about courses and enrolment that is provided to the CMS server. |
+| Course Management System Server | System that allows for users to navigate through course information and enrolment as well as allow for messaging with user friendly UI. |
+| Update Display Data | Updated information will be send to the CMS server constantly. |
+| Network Status Monitoring | Network performance and status monitoring of the CMS system and client connection. |
+| Fault Detection | Provides information about issues at will affect the CMS server. |
+| Change Log | Logs information about changes to the system as well as date and time of user login. |
+| System Management | Allows for changes in the system to be done by system maintainers. |
+| User Management | Allows for users to have access to the CMS system and be logged to maintain user validation. |
+| Messaging System | Allows the user to send and receive messages and notifications to and from other users of different user types. |
+
+Sequence Diagram for UC-2 (Course Information):
+
+![](images/UC2CourseInformation.jpg)
+
+
+Sequence Diagram for UC-4 (Detect Fault):
+![](images/UC4DetectFault.jpg)
+
+
+Sequence Diagram for UC-5 (Database):
+![](images/UC5Database.jpg)
+
+
+## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose.
