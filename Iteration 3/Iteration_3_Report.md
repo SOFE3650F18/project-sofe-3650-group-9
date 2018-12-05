@@ -16,6 +16,10 @@ Elements that are needed to be refined:
 | Notifications about the courses the user has enrolled in. | If a user has enrolled in a course, they should only get information about that course. The user has no need for information about courses they are not enrolled in. |
 
 ### Step 6: Sketch Views and Record Design Decisions.
+| Design Decisions and Location | Rationale |
+| --- | --- |
+| Maintain visibility of the system status on web pages accessed by the user | Ensuring that the user is aware of the state system through appropriate feedback decreases confusion and increases usability of the system|
+| Implement emergency exits in cases where user input is necessary for a specific function of the system | Giving the user an “undo” function allows for the user to recall the system from an unwanted state without having to go through an extended dialogue, increasing usability. |
 
 ### Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose.
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During the Iteration |
