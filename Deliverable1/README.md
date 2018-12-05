@@ -1,5 +1,5 @@
 ### CMS Use Case Diagram:
-
+![](images/CMSUseCase.jpg)
 
 ### Quality Attribute Scenarios:
 | ID | Quality Attribute | Scenario | Associative Use Case |
