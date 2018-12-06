@@ -22,7 +22,7 @@ Elements that are needed to be refined:
 | Notifications about the courses the user has enrolled in. | If a user has enrolled in a course, they should only get information about that course. The user has no need for information about courses they are not enrolled in. |
 
 ### Step 6: Sketch Views and Record Design Decisions.
-[](images/image.jpg)
+![](images/image.jpg)
 
 | Design Decisions and Location | Rationale |
 | --- | --- |
