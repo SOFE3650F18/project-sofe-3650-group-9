@@ -12,6 +12,7 @@ Elements that are needed to be refined:
 | Maintain visibility of the system status on web pages accessed by the user | Ensuring that the user is aware of the state system through appropriate feedback decreases confusion and increases usability of the system|
 | Implement emergency exits in cases where user input is necessary for a specific function of the system | Giving the user an “undo” function allows for the user to recall the system from an unwanted state without having to go through an extended dialogue, increasing usability. 
 | Implement a course enrollment option from the course information page. | This gaurentees that related information is grouped together, making it straightforward for the user to enroll in classes |
+| Update the database after every enrollment option processed by the web application | Because of the user's need for the most recent information, information relating to the course needs to be updated after every course action (i.e enroll, drop course, update course capacity, etc.) in order for the user to have a clear idea of all aspects of the course |
 
 ### Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces.
 | Design Decisions and Location | Rationale |
