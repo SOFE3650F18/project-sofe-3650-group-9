@@ -26,8 +26,8 @@ Elements that are needed to be refined:
 
 | Design Decisions and Location | Rationale |
 | --- | --- |
-| Maintain visibility of the system status on web pages accessed by the user | Ensuring that the user is aware of the state system through appropriate feedback decreases confusion and increases usability of the system|
-| Implement emergency exits in cases where user input is necessary for a specific function of the system | Giving the user an “undo” function allows for the user to recall the system from an unwanted state without having to go through an extended dialogue, increasing usability. |
+| Notification system will only send a notification once the action requested by the user is implemented into the database | This ensures that any notifications sent to the user are verified to be true and also ensures the updated course information in the database are synchronized with whatever outcome the user recieved in their notification. |
+
 
 ### Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose.
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During the Iteration |
